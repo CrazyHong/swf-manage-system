@@ -1,0 +1,1082 @@
+﻿body {
+    margin: 0;
+    background-image: url('../images/bg.jpg');
+    background-repeat: repeat-x;
+    background-position: top;
+}
+
+.swf-header {
+    height: 530px;
+    margin-right: auto;
+    margin-left: auto;
+    background-image: url('../images/top.jpg');
+    background-position: center top;
+    overflow: auto;
+    background-color: #CCCCCC;
+    background-repeat: no-repeat;
+}
+
+.swf-list-1 {
+    float: left;
+    height: 45px;
+    width: 140px;
+    font-family: "微软雅黑";
+    font-size: 14px;
+    line-height: 45px;
+    color: #FFFFFF;
+    text-align: center;
+    border-right-width: 1px;
+    border-right-style: solid;
+    border-right-color: #083066;
+}
+
+    .swf-list-1 a:hover {
+        float: left;
+        height: 45px;
+        width: 140px;
+        font-family: "微软雅黑";
+        font-size: 14px;
+        line-height: 45px;
+        text-align: center;
+        background-image: url('../images/list-1.jpg');
+    }
+
+.swf-list-2 {
+    float: left;
+    height: 50px;
+    width: 130px;
+    font-family: "微软雅黑";
+    font-size: 14px;
+    line-height: 50px;
+    color: #FFFFFF;
+    text-align: center;
+    border-right-width: 1px;
+    border-right-style: solid;
+    border-right-color: #AA091C;
+    background-image: url('../images/list-1.jpg');
+}
+
+.swf-footer {
+    height: 90px;
+    text-align: center;
+    background-position: center;
+    background-color: #545454;
+    padding-top: 30px;
+    font-family: "微软雅黑";
+    font-size: 12px;
+    line-height: 18px;
+    color: #CCCCCC;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.swf-list {
+    height: 45px;
+    width: 1128px;
+    margin-right: auto;
+    margin-left: auto;
+    background-image: url('../images/list.jpg');
+    overflow: auto;
+    border-left-width: 1px;
+    border-left-style: solid;
+    border-left-color: #083066;
+}
+
+.swf-adv {
+    height: 350px;
+    width: 1128px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 30px;
+}
+
+.swf-mid-1 {
+    height: 400px;
+    width: 1128px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 20px;
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.swf-adv-left {
+    float: left;
+    height: 350px;
+    width: 780px;
+}
+
+.swf-adv-right {
+    float: right;
+    height: 350px;
+    width: 330px;
+}
+
+.swf-mid-2 {
+    height: 280px;
+    width: 1128px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 20px;
+}
+
+.swf-mid-3 {
+    height: 250px;
+    width: 1180px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.swf-adv-right-title {
+    height: 30px;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: #BF051B;
+    background-image: url('../images//01.png');
+}
+
+.swf-adv-right-info {
+    height: 305px;
+    padding-top: 12px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-right-color: #CCCCCC;
+    border-bottom-color: #CCCCCC;
+    border-left-color: #CCCCCC;
+    background-color: #F5F5F5;
+    padding-right: 14px;
+    padding-left: 14px;
+}
+
+.swf-adv-right-news {
+    height: 26px;
+    padding-left: 12px;
+    font-family: "微软雅黑";
+    font-size: 14px;
+    line-height: 26px;
+    color: #FFFFFF;
+    padding-top: 2px;
+    background-image: url('../images/point-4.jpg');
+    background-repeat: no-repeat;
+    background-position: left center;
+    border-bottom-width: 1px;
+    border-bottom-style: dotted;
+    border-bottom-color: #CCCCCC;
+}
+
+.swf-adv-right-news1 {
+    height: 26px;
+    padding-left: 12px;
+    font-family: "微软雅黑";
+    font-size: 14px;
+    line-height: 26px;
+    color: #FFFFFF;
+    padding-top: 2px;
+    background-image: url('../images/point-6.jpg');
+    background-repeat: no-repeat;
+    background-position: left center;
+    float: left;
+    width: 370px;
+}
+
+.swf-title-left {
+    float: left;
+    height: 28px;
+    width: 100px;
+    font-family: "微软雅黑";
+    font-size: 14px;
+    line-height: 28px;
+    color: #FFFFFF;
+    padding-top: 3px;
+    padding-left: 15px;
+}
+
+.swf-mid-2-left {
+    float: left;
+    height: 280px;
+    width: 775px;
+}
+
+.swf-mid-2-mid {
+    float: right;
+    height: 280px;
+    width: 330px;
+}
+
+.swf-mid-2-mid-title {
+    height: 27px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #4C709E;
+}
+
+.swf-title-left-2 {
+    float: left;
+    height: 27px;
+    width: 96px;
+    font-family: "微软雅黑";
+    font-size: 14px;
+    color: #FFFFFF;
+    line-height: 27px;
+    text-align: center;
+    padding-right: 14px;
+    font-weight: bold;
+}
+
+.swf-mid-2-mid-info {
+    height: 247px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-right-color: #CCCCCC;
+    border-bottom-color: #CCCCCC;
+    border-left-color: #CCCCCC;
+}
+
+.swf-mid-2-news {
+    height: 29px;
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+
+.swf-mid-2-news-left {
+    float: left;
+    height: 29px;
+    padding-left: 15px;
+    font-family: "微软雅黑";
+    font-size: 14px;
+    line-height: 29px;
+    background-image: url('../images/point-3.jpg');
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+
+.swf-mid-2-news-right {
+    float: right;
+    height: 26px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    line-height: 26px;
+    color: #999999;
+    text-align: right;
+    padding-top: 3px;
+}
+
+.swf-mid-3-left {
+    float: left;
+    height: 240px;
+    width: 310px;
+}
+
+.swf-mid-3-mid {
+    float: left;
+    height: 240px;
+    width: 400px;
+    padding-left: 35px;
+}
+
+.swf-mid-3-mid-title {
+    height: 28px;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: #DE0C25;
+    margin-left: 15px;
+}
+
+.swf-mid-3-mid-title1 {
+    height: 28px;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: #DE0C25;
+}
+
+.swf-title-left-3 {
+    float: left;
+    height: 28px;
+    width: 110px;
+    padding-left: 20px;
+    background-repeat: no-repeat;
+    background-position: left top;
+    font-family: "微软雅黑";
+    font-size: 14px;
+    line-height: 28px;
+    color: #FFFFFF;
+    background-image: url('../images/05.png');
+}
+
+.swf-mid-3-mid-info {
+    height: 180px;
+    padding-top: 20px;
+}
+
+.swf-mid-adv {
+    height: 150px;
+    width: 1128px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 20px;
+}
+
+.swf-mid-3-news-left {
+    float: left;
+    height: 29px;
+    padding-left: 15px;
+    font-family: "微软雅黑";
+    font-size: 14px;
+    line-height: 29px;
+    background-image: url('../images/point-4.jpg');
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+
+.swf-link-title {
+    height: 40px;
+    width: 1128px;
+    margin-right: auto;
+    margin-left: auto;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: #4C709E;
+    font-family: "微软雅黑";
+    font-size: 14px;
+    line-height: 25px;
+}
+
+.swf-link {
+    height: 120px;
+    width: 1134px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 20px;
+}
+
+.swf-link-1 {
+    float: left;
+    height: 70px;
+    font-family: "微软雅黑";
+    font-size: 12px;
+    line-height: 25px;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+
+.swf-mid-4 {
+    height: 320px;
+    width: 1128px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 20px;
+}
+
+.swf-mid-4-title {
+    height: 28px;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: #DE0C25;
+}
+
+.swf-mid-4-info {
+    height: 250px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-right-color: #CCCCCC;
+    border-bottom-color: #CCCCCC;
+    border-left-color: #CCCCCC;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-left: 12px;
+    background-color: #FFFFFF;
+}
+
+.swf-mid-4-info-1 {
+    float: left;
+    height: 185px;
+    width: 190px;
+    padding-left: 15px;
+}
+
+.swf-mid-4-info-11 {
+    float: left;
+    height: 250px;
+    width: 163px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.swf-mid-4-info-111 {
+    float: left;
+    height: 160px;
+    width: 92px;
+    padding-right: 6px;
+    padding-left: 6px;
+}
+
+.swf-mid-4-info-2 {
+    height: 135px;
+    border: 1px solid #CCCCCC;
+}
+
+.swf-mid-4-info-22 {
+    height: 200px;
+}
+
+.swf-mid-4-info-222 {
+    height: 130px;
+}
+
+.swf-mid-4-info-3 {
+    height: 28px;
+    font-family: "微软雅黑";
+    font-size: 14px;
+    line-height: 20px;
+    padding-top: 6px;
+    text-align: center;
+    background-color: #EEEEEE;
+}
+
+.swf-mid-4-info-33 {
+    height: 25px;
+    font-family: "微软雅黑";
+    font-size: 14px;
+    line-height: 20px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+.swf-mid-4-info-4 {
+    height: 66px;
+    font-family: "微软雅黑";
+    font-size: 12px;
+    line-height: 20px;
+    color: #666666;
+    padding-top: 8px;
+}
+
+.swf-mid-4-info-5 {
+    height: 22px;
+    padding-top: 5px;
+}
+
+.swf-mid-1-left {
+    float: left;
+    height: 400px;
+    width: 300px;
+}
+
+.swf-mid-1-right {
+    float: right;
+    height: 400px;
+    width: 820px;
+}
+
+.swf-mid-1-left-info-1 {
+    height: 112px;
+}
+
+.swf-mid-1-left-info-2 {
+    height: 140px;
+}
+
+.swf-mid-right-left-info-pic {
+    float: left;
+    height: 95px;
+    width: 150px;
+    padding: 0px;
+}
+
+.swf-mid-right-left-info-word {
+    float: right;
+    height: 95px;
+    width: 180px;
+    font-size: 16px;
+    line-height: 25px;
+    color: #666666;
+    font-family: "微软雅黑";
+}
+
+.swf-youth-1 {
+    font-size: 14px;
+    line-height: 20px;
+    overflow: auto;
+    padding-top: 2px;
+}
+
+.swf-youth-2 {
+    height: 20px;
+    font-size: 12px;
+    line-height: 18px;
+    color: #666666;
+}
+
+.swf-mid-1-right-pic {
+    height: 95px;
+    padding-top: 22px;
+}
+
+.swf-mid-1-right-word {
+    height: 354px;
+    font-family: "微软雅黑";
+    font-size: 12px;
+    line-height: 20px;
+    color: #666666;
+    padding-top: 16px;
+}
+
+.swf-mid-1-right-more {
+    height: 22px;
+    padding-top: 7px;
+}
+
+.swf-mid-3-left-info {
+    height: 170px;
+    padding-top: 25px;
+    font-family: "微软雅黑";
+    font-size: 12px;
+    line-height: 20px;
+    color: #666666;
+}
+
+.swf-search-left {
+    float: left;
+    height: 30px;
+    width: 352px;
+}
+
+.swf-search-right {
+    float: right;
+    height: 24px;
+    width: 74px;
+}
+
+.swf-sear {
+    height: 32px;
+    width: 342px;
+    line-height: 32px;
+    padding-top: 1px;
+    background-color: #F3F3F3;
+    padding-left: 10px;
+    font-family: "微软雅黑";
+    font-size: 14px;
+    color: #000000;
+    border: 1px solid #F3F3F3;
+}
+
+.swf-second-adv {
+    height: 160px;
+    margin-right: auto;
+    margin-left: auto;
+    border-top-width: 10px;
+    border-top-style: solid;
+    border-top-color: #FFFFFF;
+    overflow: auto;
+    background-color: #1E3652;
+    background-image: url('../images/second-adv.jpg');
+    background-position: center center;
+}
+
+.swf-second-adv-left {
+    height: 160px;
+    width: 1180px;
+    margin-right: auto;
+    margin-left: auto;
+    background-image: url('../images/second-adv-bg.jpg');
+    background-repeat: no-repeat;
+    background-position: left bottom;
+}
+
+.swf-second-adv-right {
+    float: right;
+    height: 150px;
+    width: 880px;
+    background-image: url('../images/0301.jpg');
+}
+
+.swf-second-mid {
+    width: 1128px;
+    margin-right: auto;
+    margin-left: auto;
+    overflow: auto;
+    padding-bottom: 40px;
+    padding-top: 35px;
+}
+
+.swf-sec-mid-left {
+    float: right;
+    width: 310px;
+    padding-bottom: 120px;
+    overflow: auto;
+}
+
+.swf-sec-mid-right {
+    float: right;
+    width: 790px;
+    overflow: auto;
+}
+
+.swf-sec-mid-right1 {
+    float: right;
+    width: 820px;
+    overflow: auto;
+}
+
+.swf-sec-mid-left-title {
+    height: 70px;
+    padding-left: 40px;
+}
+
+.swf-sec-mid-left-info {
+    height: 300px;
+    background-color: #EEEEEE;
+    padding-top: 20px;
+    padding-left: 40px;
+}
+
+.swf-sec-mid-left-list-1 {
+    height: 35px;
+    background-color: #FF9933;
+    font-family: "微软雅黑";
+    font-size: 14px;
+    line-height: 35px;
+    color: #FFFFFF;
+    padding-left: 50px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #FFFFFF;
+    background-image: url('../images/point-2.jpg');
+    background-repeat: no-repeat;
+    background-position: right center;
+}
+
+.swf-sec-mid-left-list-2 {
+    height: 25px;
+    font-family: "微软雅黑";
+    font-size: 12px;
+    line-height: 25px;
+    color: #000000;
+    padding-left: 1px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #FFFFFF;
+    padding-top: 2px;
+}
+
+.swf-sec-mid-left-title-1 {
+    height: 25px;
+    font-family: "微软雅黑";
+    font-size: 18px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+.swf-sec-mid-left-title-2 {
+    height: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    line-height: 20px;
+    color: #EFEFEF;
+}
+
+.swf-second-title {
+    height: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 12px;
+    line-height: 20px;
+    font-family: "微软雅黑";
+    color: #999999;
+    text-align: right;
+}
+
+.swf-second-title1 {
+    height: 20px;
+    margin-right: 20px;
+    font-size: 12px;
+    line-height: 20px;
+    font-family: "微软雅黑";
+    color: #999999;
+    text-align: right;
+}
+
+.swf-sec-mid-right {
+    float: left;
+    width: 760px;
+    overflow: auto;
+}
+
+.swf-sec-mid-right1 {
+    float: left;
+    width: 780px;
+    overflow: auto;
+}
+
+.swf-sec-mid-left-title {
+    height: 30px;
+    padding-left: 20px;
+    background-image: url('../images//06.png');
+    padding-top: 2px;
+    font-family: "微软雅黑";
+    font-size: 14px;
+    line-height: 30px;
+    color: #FFFFFF;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: #DE0C25;
+}
+
+.swf-sec-mid-left-info {
+    height: 300px;
+    background-color: #EEEEEE;
+    padding-top: 16px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.swf-second-mid-left-title {
+    height: 40px;
+    font-family: "微软雅黑";
+    font-size: 18px;
+    line-height: 25px;
+    background-image: url('../images/second-title-bg.jpg');
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    overflow: auto;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: #CCCCCC;
+}
+
+.swf-second-mid-left-title1 {
+    height: 40px;
+    font-family: "微软雅黑";
+    font-size: 18px;
+    line-height: 25px;
+    background-image: url('../images/second-title-bg.jpg');
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    overflow: auto;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: #CCCCCC;
+    margin-right: 20px;
+}
+
+.swf-second-mid-right-info {
+    padding-top: 20px;
+    overflow: auto;
+}
+
+.swf-sec-news {
+    height: 40px;
+    padding-bottom: 5px;
+    border-bottom-width: 1px;
+    border-bottom-style: dotted;
+    border-bottom-color: #CCCCCC;
+    margin-bottom: 7px;
+}
+
+.swf-sec-news-left {
+    height: 40px;
+    font-family: "微软雅黑";
+    font-size: 20px;
+    line-height: 40px;
+    float: left;
+    padding-left: 22px;
+    background-image: url('../images/point-7.jpg');
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+
+.swf-sec-news-right {
+    float: right;
+    height: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    line-height: 20px;
+    text-align: right;
+    padding-top: 10px;
+    color: #999999;
+    padding-right: 10px;
+}
+
+.swf-sec-news-info {
+    font-family: "微软雅黑";
+    font-size: 12px;
+    line-height: 20px;
+    color: #333333;
+    overflow: auto;
+    margin-bottom: 15px;
+    padding-bottom: 20px;
+    padding-left: 22px;
+    border-bottom-width: 1px;
+    border-bottom-style: dotted;
+    border-bottom-color: #CCCCCC;
+}
+
+.swf-page {
+    font-size: 12px;
+    line-height: 20px;
+    color: #777777;
+    overflow: auto;
+    padding-top: 20px;
+    font-family: "微软雅黑";
+}
+
+.swf-sec-news-title {
+    height: 60px;
+    font-family: "微软雅黑";
+    font-size: 22px;
+    line-height: 48px;
+    text-align: center;
+    border-bottom-width: 1px;
+    border-bottom-style: dotted;
+    border-bottom-color: #CCCCCC;
+}
+
+.swf-sec-news-show {
+    padding-top: 30px;
+    overflow: auto;
+    font-family: "微软雅黑";
+    font-size: 14px;
+    line-height: 25px;
+    padding-bottom: 40px;
+}
+
+.swf-sec-news-time {
+    height: 40px;
+    font-family: "微软雅黑";
+    font-size: 12px;
+    line-height: 20px;
+    color: #999999;
+    border-bottom-width: 1px;
+    border-bottom-style: dotted;
+    border-bottom-color: #CCCCCC;
+}
+
+.swf-about {
+    font-family: "微软雅黑";
+    font-size: 14px;
+    line-height: 25px;
+    overflow: auto;
+}
+
+.swf-news-1 {
+    height: 200px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.swf-news-1-left {
+    float: left;
+    height: 200px;
+    width: 161px;
+}
+
+.swf-news-1-right {
+    float: right;
+    height: 200px;
+    width: 570px;
+    border-bottom-width: 1px;
+    border-bottom-style: dotted;
+    border-bottom-color: #CCCCCC;
+}
+
+.swf-news-1-right-1 {
+    height: 30px;
+    padding-top: 6px;
+    font-family: "微软雅黑";
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.swf-news-1-right-2 {
+    font-family: "微软雅黑";
+    font-size: 12px;
+    line-height: 20px;
+    color: #666666;
+    padding-right: 10px;
+    overflow: auto;
+}
+
+.swf-news-1-right-3 {
+    height: 30px;
+    padding-top: 3px;
+    padding-right: 10px;
+}
+
+.swf-news-1-right-3-left {
+    height: 20px;
+    font-family: "微软雅黑";
+    font-size: 12px;
+    line-height: 20px;
+    float: left;
+    width: 200px;
+    color: #999999;
+}
+
+.swf-news-1-right-3-right {
+    float: left;
+    height: 22px;
+    width: 104px;
+    font-size: 12px;
+    line-height: 20px;
+    text-align: center;
+}
+
+.swf-title-right {
+    float: right;
+    height: 10px;
+    width: 36px;
+    padding-top: 6px;
+}
+
+.swf-index-out-1 {
+    height: 190px;
+    padding-top: 16px;
+}
+
+.swf-index-out-5 {
+    height: 143px;
+    background-color: #EEEEEE;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-family: "微软雅黑";
+    font-size: 14px;
+    line-height: 21px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-right-color: #CCCCCC;
+    border-bottom-color: #CCCCCC;
+    border-left-color: #CCCCCC;
+}
+
+.swf-zhu-1 {
+    height: 184px;
+    padding-right: 8px;
+    padding-left: 15px;
+    padding-top: 12px;
+    background-color: #F5F5F5;
+}
+
+.swf-zhu-2 {
+    height: 50px;
+    padding-right: 15px;
+    padding-left: 18px;
+    background-color: #F5F5F5;
+}
+
+.swf-host-1 {
+    float: left;
+    height: 266px;
+    width: 175px;
+    padding-right: 20px;
+}
+
+.swf-host-2 {
+    height: 220px;
+}
+
+.swf-host-3 {
+    height: 25px;
+    padding-top: 8px;
+    font-family: "微软雅黑";
+    font-size: 14px;
+    line-height: 25px;
+    text-align: center;
+}
+
+.swf-tv-1 {
+    float: left;
+    height: 208px;
+    width: 240px;
+    padding-right: 20px;
+}
+
+.swf-tv-2 {
+    height: 160px;
+    background-color: #F3102B;
+}
+
+.swf-tv-3 {
+    height: 25px;
+    padding-top: 8px;
+    font-family: "微软雅黑";
+    font-size: 14px;
+    line-height: 25px;
+    text-align: center;
+}
+
+.swf-search-left {
+    float: right;
+    height: 20px;
+    width: 130px;
+    padding-top: 1px;
+}
+
+.swf-search-right {
+    float: right;
+    height: 23px;
+    width: 74px;
+    padding-top: 1px;
+}
+
+.swf-sear {
+    height: 19px;
+    width: 118px;
+    border: 1px solid #666666;
+    line-height: 19px;
+    padding-top: 1px;
+    background-color: #DDDDDD;
+}
+
+.swf-search-name {
+    float: left;
+    width: 90px;
+    font-family: "微软雅黑";
+    font-size: 12px;
+    padding-top: 4px;
+}
+
+.swf-adv-right-info-1 {
+    height: 90px;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+.swf-adv-right-info-2 {
+    float: left;
+    height: 90px;
+    width: 130px;
+    background-image: url('../images/0101.jpg');
+}
+
+.swf-adv-right-info-3 {
+    float: left;
+    height: 80px;
+    width: 170px;
+    font-family: "微软雅黑";
+    font-size: 16px;
+    line-height: 25px;
+    padding-left: 15px;
+    padding-top: 6px;
+}
+
+.swf-nasdaq-1 {
+    height: 235px;
+    padding-top: 15px;
+}
